@@ -1,0 +1,11 @@
+D:\buroc\VS\ExRate\bin\Debug\netcoreapp2.1\ExRate.deps.json
+D:\buroc\VS\ExRate\bin\Debug\netcoreapp2.1\ExRate.runtimeconfig.json
+D:\buroc\VS\ExRate\bin\Debug\netcoreapp2.1\ExRate.runtimeconfig.dev.json
+D:\buroc\VS\ExRate\bin\Debug\netcoreapp2.1\ExRate.dll
+D:\buroc\VS\ExRate\bin\Debug\netcoreapp2.1\ExRate.pdb
+D:\buroc\VS\ExRate\obj\Debug\netcoreapp2.1\ExRate.csprojAssemblyReference.cache
+D:\buroc\VS\ExRate\obj\Debug\netcoreapp2.1\ExRate.csproj.CoreCompileInputs.cache
+D:\buroc\VS\ExRate\obj\Debug\netcoreapp2.1\ExRate.AssemblyInfoInputs.cache
+D:\buroc\VS\ExRate\obj\Debug\netcoreapp2.1\ExRate.AssemblyInfo.cs
+D:\buroc\VS\ExRate\obj\Debug\netcoreapp2.1\ExRate.dll
+D:\buroc\VS\ExRate\obj\Debug\netcoreapp2.1\ExRate.pdb
